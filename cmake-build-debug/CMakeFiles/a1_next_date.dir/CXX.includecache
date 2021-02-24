@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/bri11/CLionProjects/a1-next-date/SimpleDate.h
+
+C:/Users/bri11/CLionProjects/a1-next-date/main.cpp
+iostream
+-
+SimpleDate.h
+C:/Users/bri11/CLionProjects/a1-next-date/SimpleDate.h
+

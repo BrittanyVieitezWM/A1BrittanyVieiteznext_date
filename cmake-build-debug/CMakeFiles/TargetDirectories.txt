@@ -1,0 +1,3 @@
+C:/Users/bri11/CLionProjects/a1-next-date/cmake-build-debug/CMakeFiles/a1_next_date.dir
+C:/Users/bri11/CLionProjects/a1-next-date/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bri11/CLionProjects/a1-next-date/cmake-build-debug/CMakeFiles/rebuild_cache.dir
